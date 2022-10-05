@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.440e2c16.css",
+    "main.js": "/static/js/main.57933e2c.js",
+    "static/media/Witching Hour.jpg": "/static/media/Witching Hour.e5b5cfdfe9b3cbecc2d3.jpg",
+    "index.html": "/index.html",
+    "main.440e2c16.css.map": "/static/css/main.440e2c16.css.map",
+    "main.57933e2c.js.map": "/static/js/main.57933e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.440e2c16.css",
+    "static/js/main.57933e2c.js"
+  ]
+}
