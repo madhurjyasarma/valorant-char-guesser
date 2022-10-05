@@ -1,7 +1,0 @@
-Controllers : Brimstone, Viper, Omen, Astra
-
-Duelists : Phoenix, Jett, Reyna, Raze, Yoru, Neon
-
-Initiators : Sova, Breach, Skye, KAY/O, Fade
-
-Sentinels : Killjoy, Cypher, Sage, Chamber
